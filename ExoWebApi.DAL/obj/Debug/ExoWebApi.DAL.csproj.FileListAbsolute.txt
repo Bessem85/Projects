@@ -1,0 +1,6 @@
+C:\Users\zbidi\source\repos\ExoWebApi\ExoWebApi.DAL\obj\Debug\ExoWebApi.DAL.csprojResolveAssemblyReference.cache
+C:\Users\zbidi\source\repos\ExoWebApi\ExoWebApi.DAL\obj\Debug\ExoWebApi.DAL.csproj.CoreCompileInputs.cache
+C:\Users\zbidi\source\repos\ExoWebApi\ExoWebApi.DAL\bin\Debug\ExoWebApi.DAL.dll
+C:\Users\zbidi\source\repos\ExoWebApi\ExoWebApi.DAL\bin\Debug\ExoWebApi.DAL.pdb
+C:\Users\zbidi\source\repos\ExoWebApi\ExoWebApi.DAL\obj\Debug\ExoWebApi.DAL.dll
+C:\Users\zbidi\source\repos\ExoWebApi\ExoWebApi.DAL\obj\Debug\ExoWebApi.DAL.pdb
